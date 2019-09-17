@@ -1,0 +1,10 @@
+1. Especificações do Software e Hardware
+2. Pré-requisitos e Requisitos para desenvolvimento
+3. Análise de Arquitetura
+4. Especificações funcionais
+5. Especificações técnicas
+6. Testes Unitários
+7. Testes Integrados
+8. Testes com Key-Users
+9. Desenvolvimento de Manuais
+10. Documentação
